@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 im abhay from seaflux how are you
 this also make conflict too
+=======
+<<<<<<< HEAD
+im abhay from seaflux welcome
+this also make conflict changed
+=======
+im abhay from seaflux
+this also make conflict too
+>>>>>>> third
+>>>>>>> second
